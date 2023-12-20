@@ -1,4 +1,4 @@
-from src.linked_list import LinkedListIterator, Node
+from src.data_structures import LinkedListIterator, Node
 
 
 class TestLinkedList:

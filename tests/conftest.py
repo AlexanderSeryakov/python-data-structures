@@ -1,6 +1,6 @@
 import pytest
 
-from src.linked_list import LinkedList, Node
+from src.data_structures import LinkedList, Node
 
 
 @pytest.fixture(scope="function")
